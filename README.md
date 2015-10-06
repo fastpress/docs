@@ -20,6 +20,7 @@ This is the simple wordpress-esque way to publish your blogs. Just log in to you
  - Fetch/order blogs by unique tags, dates and authors
  - *editable* blogs by visitors, edits then are sent as PR to your github account. 
  - log in with github/twitter to comment. 
+ - easily embed gists and tweets into your blog post
 
 ## Collaboration
 Anyone is welcome to contribute.
